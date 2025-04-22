@@ -1,4 +1,4 @@
-Hi 👋 My name is Moorthy
+Hi 👋 , I'm Moorthy
 ========================
 
 Web Developer | Web3 Enthusiast
