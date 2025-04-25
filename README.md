@@ -23,7 +23,7 @@ I'm a passionate Frontend Developer who enjoys building clean, responsive user i
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moorthy-ponnusamy-739456265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)       [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moorthy21sparkout)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moorthy-739456265)       [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moorthy21sparkout)
 
 ---
 
